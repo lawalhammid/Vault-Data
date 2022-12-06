@@ -1,0 +1,36 @@
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.deps.json
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.pdb
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.csproj.AssemblyReference.cache
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.AssemblyInfoInputs.cache
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.AssemblyInfo.cs
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.csproj.CoreCompileInputs.cache
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\refint\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.pdb
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise\VaultData.DeveloperTest\obj\Debug\net6.0\ref\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.deps.json
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.pdb
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.csproj.AssemblyReference.cache
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.AssemblyInfoInputs.cache
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.AssemblyInfo.cs
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.csproj.CoreCompileInputs.cache
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\refint\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.pdb
+D:\Repos\CV\Companies\Vault\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\ref\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.deps.json
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\bin\Debug\net6.0\VaultData.DeveloperTest.pdb
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.csproj.AssemblyReference.cache
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.AssemblyInfoInputs.cache
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.AssemblyInfo.cs
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.csproj.CoreCompileInputs.cache
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\refint\VaultData.DeveloperTest.dll
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\VaultData.DeveloperTest.pdb
+D:\Repos\CV\Companies\Vault\CodeSolution\VaultData - .Net Exercise - Lawal.hammid@gmail.com\VaultData.DeveloperTest\obj\Debug\net6.0\ref\VaultData.DeveloperTest.dll
